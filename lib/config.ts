@@ -13,9 +13,9 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
   },
 ];
 
-export const PLACEHOLDER_INPUT = "Ask anything...";
+export const PLACEHOLDER_INPUT = "Typ hier je vraag";
 
-export const GREETING = "How can I help you today?";
+export const GREETING = "Welkom bij keizers.nu 👋 Voor verkoopvragen help ik je graag!";
 
 export const getThemeConfig = (theme: ColorScheme): ThemeOption => ({
   color: {
